@@ -1,0 +1,96 @@
+* {
+    padding: 0;
+    margin: 0;
+
+}
+
+.container {
+    padding: 26px;
+    width: 90%;
+    background: #1b1b1b;
+    color: #ffff;
+    text-align: center;
+    margin: 24px auto;
+    border-radius: 14px;
+}
+
+.title {
+    padding: 47px;
+    font-family: cursive;
+    text-align: -webkit-center;
+}
+
+p {
+    width: 65%;
+    margin: 0 0 22px 0;
+}
+
+a {
+    text-decoration: none;
+    background: #f97d52;
+    padding: 4px 10px;
+    border-radius: 14px;
+    color: #ffff;
+}
+
+.second-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.img1 {
+    width: 35%;
+    height: 242px;
+    background-image: url(1.jpeg);
+    background-size: cover;
+    border-radius: 34px;
+    box-shadow: -1px -1px 0px 0px #ffffff14;
+}
+
+.img2 {
+    width: 35%;
+    height: 242px;
+    background-image: url(2.jpg);
+    background-size: cover;
+    border-radius: 34px;
+    box-shadow: -1px -1px 0px 0px #ffffff14;
+}
+
+.title-prand {
+    position: relative;
+    right: 123px;
+    bottom: 0px;
+    top: 212px;
+}
+
+/* ----------------About---------------- */
+
+.abouMe h1 {
+    font-size: 16px;
+    color: beige;
+    margin: 62px 0;
+}
+
+.abouMe {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 109px 0;
+}
+.myimg{
+    width: 50%;
+}
+.aboutTitle {
+    width: 28%;
+}
+
+
+img {
+    width: 219px;
+    border-radius: 50%;
+}
+.caption {
+    width: 100%;
+    font-size: 26px;
+}
